@@ -1,0 +1,58 @@
+[18-Sep-2015 11:45:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/account-info.php(4): require_once()
+#1 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
+[18-Sep-2015 11:45:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/authorize.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/authorize.php on line 7
+[18-Sep-2015 11:45:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/create-shareable-link.php(4): require_once()
+#1 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
+[18-Sep-2015 11:45:44 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/delta.php(4): require_once()
+#1 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
+[18-Sep-2015 11:47:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unable to load "/home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/web-file-browser.app": File doesn't exist: "/home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/web-file-browser.app"' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/web-file-browser.php:181
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/web-file-browser.php(203): getAppConfig()
+#1 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/web-file-browser.php(83): getWebAuth()
+#2 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/web-file-browser.php on line 181
+[18-Sep-2015 11:48:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/upload-file.php(4): require_once()
+#1 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
+[18-Sep-2015 11:48:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/upgrade-oauth1-token.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/upgrade-oauth1-token.php on line 7
+[18-Sep-2015 11:48:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/link.php(4): require_once()
+#1 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
+[18-Sep-2015 11:48:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
+[18-Sep-2015 11:48:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/get-metadata.php(4): require_once()
+#1 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
+[18-Sep-2015 11:49:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/download-file.php(4): require_once()
+#1 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
+[18-Sep-2015 11:49:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'This program was meant to be run from the command-line and not as a web app.  Bad value for PHP_SAPI.  Expected "cli", given "cgi-fcgi".' in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php:6
+Stack trace:
+#0 /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/direct-link.php(4): require_once()
+#1 {main}
+  thrown in /home/dzclixwall/public_html/securepanel/securebackup/dropbox-sdk/examples/helper.php on line 6
