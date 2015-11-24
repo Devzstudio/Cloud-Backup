@@ -37,6 +37,7 @@ $database_pass = "";
 $database_name = "";
 ```
 
+4) Enter key and secret in config.json
 
 # Usage
 
