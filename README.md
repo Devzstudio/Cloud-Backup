@@ -6,12 +6,12 @@ Backup your database and website files easily to dropbox.
 
 [![Build Status](http://img.shields.io/badge/Version-1.0-green.svg)]( http://img.shields.io/badge/Version-1.0-green.svg )
 
-
- <a href="https://www.patreon.com/Pjijin" title="Donate to this project"><img src="https://s3.amazonaws.com/patreon_public_assets/toolbox/patreon.png" width="120px" height="30px" alt="Donate" /></a>
-
 [![License](http://img.shields.io/badge/License-MIT-lightgrey.svg)](http://img.shields.io/badge/License-MIT-lightgrey.svg)
 
+# Donate
 
+ <a href="https://www.patreon.com/Pjijin" title="Donate to this project"><img src="https://s3.amazonaws.com/patreon_public_assets/toolbox/patreon.png" width="120px" height="30px" alt="Donate" /></a>
+ 
 # Configuration
 
 
